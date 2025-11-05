@@ -1,5 +1,5 @@
 # DeVRAG-cases
-This project presents the results of the manual case analysis of LMM-DVC.
+This project presents the results of the manual case analysis of the proposed method.
 ***
 ## cases.json
 This file provides 50 cases and their manual analysis results. Each case includes captions generated with and without DeVRAG, along with the consistency level between the generated captions and the ground truth labels. Specifically, this file contains a list. Each element in the list provides information about a case. 
