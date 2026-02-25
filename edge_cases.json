@@ -1,0 +1,147 @@
+[
+    {
+        "Video ID": "fn9anlEL4FI",
+        "Video link": "https://www.youtube.com/watch?v=fn9anlEL4FI",
+        "Event time": [230, 238],
+        "Retrieved text": "add salt and green chili",
+        "Generated caption": "add water to the pan",
+        "Ground truth": "add water to the pot",
+        "Similarity of the retrieved text": "same action with different objects"
+    },
+    {
+        "Video ID": "J7gBorrGvDU",
+        "Video link": "https://www.youtube.com/watch?v=J7gBorrGvDU",
+        "Event time": [115, 127],
+        "Retrieved text": "add seasoning and liquid to the flour",
+        "Generated caption": "add beer to the flour",
+        "Ground truth": "add beer to the mixture",
+        "Similarity of the retrieved text": "same action with different objects"
+    },
+    {
+        "Video ID": "DeiX_otgD1Q",
+        "Video link": "https://drive.google.com/file/d/1nJxKDgyr6DNtuU5IDDGJEY8-HGuYIjeH/view?usp=sharing",
+        "Event time": [182, 191],
+        "Retrieved text": "add salt and pepper to the pot and stir",
+        "Generated caption": "add parsley to the mashed potatoes and mix",
+        "Ground truth": "add chopped parsley and stir",
+        "Similarity of the retrieved text": "same action with different objects"
+
+    },
+    {
+       "Video ID": "UkqQAynrM2g",
+       "Video link": "https://www.youtube.com/watch?v=UkqQAynrM2g",
+       "Event time": [153, 166],
+       "Retrieved text": "fry the chicken breast with a little oil",
+       "Generated caption": "fry the bacon in a pan",
+       "Ground truth": "fry bacon in a skillet",
+       "Similarity of the retrieved text": "same action with different objects"
+    },
+    {
+        "Video ID": "v_KEXm-3H6eTg",
+        "Video link": "https://www.youtube.com/watch?v=KEXm-3H6eTg",
+        "Event time": [0.0, 3.11],
+        "Retrieved text": "A person pours water to a cup.",
+        "Generated caption": "A person pours water into a glass.",
+        "Ground truth": "A drink is being poured into a martini glass.",
+        "Similarity of the retrieved text": "same action with different objects"
+    },
+    {
+        "Video ID": "v_QVe7NojAHjY",
+        "Video link": "https://www.youtube.com/watch?v=QVe7NojAHjY",
+        "Event time": [101.32, 117.64],
+        "Retrieved text": "The dried fruit mixture is added in the batter, and then shredded nuts and they were mixed well together.",
+        "Generated caption": "Oats are added to the mixture.",
+        "Ground truth": "Oats are added to the combined mixture.",
+        "Similarity of the retrieved text": "same action with different objects"
+    },
+    {
+        "Video ID": "v_zuBJzdDI9MY",
+        "Video link": "https://drive.google.com/file/d/1Zvg_2HKS0xbHNij9Jkf3Z4RmUQh70yEE/view?usp=sharing",
+        "Event time": [26.56, 38.32],
+        "Retrieved text": "He takes a scoop of what's in the pot and adds it to the pan.",
+        "Generated caption": "He adds oil and salt to the water.",
+        "Ground truth": "The man adds oil and salt to a pot on the stove.",
+        "Similarity of the retrieved text": "same action with different objects"
+    },
+    {
+        "Video ID": "v_5JlwYD_GChY",
+        "Video link": "https://www.youtube.com/watch?v=5JlwYD_GChY",
+        "Event time": [0.0, 48.44],
+        "Retrieved text": "Men are playing volleyball in the sand.",
+        "Generated caption": "A large group of people are seen playing soccer on a beach with one another.",
+        "Ground truth": "Scenes of different teams playing in a beach soccer tournament.",
+        "Similarity of the retrieved text": "same action with different objects"
+    },
+    {
+        "Video ID": "mZwK0TBI1iY",
+        "Video link": "https://www.youtube.com/watch?v=mZwK0TBI1iY",
+        "Event time": [78, 96],
+        "Retrieved text": "flip the chicken",
+        "Generated caption": "place the chicken in a pan with oil and fry",
+        "Ground truth": "fry the chicken in a pan",
+        "Similarity of the retrieved text": "same object with different actions"
+    },
+    {
+        "Video ID": "kWLYcM3uVVc",
+        "Video link": "https://www.youtube.com/watch?v=kWLYcM3uVVc",
+        "Event time": [45, 48],
+        "Retrieved text": "grate cheese onto the patty",
+        "Generated caption": "add shredded mozzarella cheese on top",
+        "Ground truth": "add mozzarella cheese to the top",
+        "Similarity of the retrieved text": "same object with different actions"
+    },
+    {
+        "Video ID": "mNhj7SA7c4g",
+        "Video link": "https://www.youtube.com/watch?v=mNhj7SA7c4g",
+        "Event time": [60, 78],
+        "Retrieved text": "salt the onions",
+        "Generated caption": "add the onions to the pot",
+        "Ground truth": "add the onion ginger and garlic to the pan",
+        "Similarity of the retrieved text": "same object with different actions"
+    },
+    {
+        "Video ID": "mZwK0TBI1iY",
+        "Video link": "https://www.youtube.com/watch?v=mZwK0TBI1iY",
+        "Event time": [111, 116],
+        "Retrieved text": "put some mozzarella cheese on the chicken",
+        "Generated caption": "bake the chicken in the oven",
+        "Ground truth": "bake the chicken in the oven",
+        "Similarity of the retrieved text": "same object with different actions"
+    },
+    {
+        "Video ID": "v_Po8gmt7hVTY",
+        "Video link": "https://www.youtube.com/watch?v=Po8gmt7hVTY",
+        "Event time": [13.36, 46.98],
+        "Retrieved text": "After, the man taste the spaghetti and drain it.",
+        "Generated caption": "He adds pasta to the pot.",
+        "Ground truth": "He boils pasta noodles in a pot.",
+        "Similarity of the retrieved text": "same object with different actions"
+    },
+    {
+        "Video ID": "v_jpWevi1HBYo",
+        "Video link": "https://www.youtube.com/watch?v=jpWevi1HBYo",
+        "Event time": [9.07, 16.95],
+        "Retrieved text": "The lady talks with girls who plays a game hitting a ball with a stick.",
+        "Generated caption": "The girls run to the ball and grab it.",
+        "Ground truth": "A child scoop the ball with the stick and run on opposite direction.",
+        "Similarity of the retrieved text": "same object with different actions"
+    },
+    {
+        "Video ID": "v_RxXBMgsu6uU",
+        "Video link": "https://drive.google.com/file/d/1zRBMb3cRx9QNeNgPx8S7PuvEdFBKrUtk/view?usp=sharing",
+        "Event time": [94.05, 94.93],
+        "Retrieved text": "One of the boys has fallen and dropped his bike.",
+        "Generated caption": "The boys start to ride their bikes.",
+        "Ground truth": "The gate is released and the boys bike on the dirt.",
+        "Similarity of the retrieved text": "same object with different actions"
+    },
+    {
+        "Video ID": "v_I4uZkBmE5eM",
+        "Video link": "https://www.youtube.com/watch?v=I4uZkBmE5eM",
+        "Event time": [6.16, 77.6],
+        "Retrieved text": "A person is seen walking into frame in front of a pair of drums.",
+        "Generated caption": "The man continues playing the drums and ends by looking to the camera.",
+        "Ground truth": "The man is looking at the camera occasionally as he plays the drum.",
+        "Similarity of the retrieved text": "same object with different actions"
+    }
+]
