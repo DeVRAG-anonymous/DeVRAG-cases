@@ -68,3 +68,30 @@ The detailed information of the element structure is as follows:
 | **Generated caption**| The caption generated with DeVRAG for the event|
 | **Ground truth**| The caption label for this event in the video|
 | **Similarity of the retrieved text**| the similarity situation between the retrieved text and the given video segment|
+
+## 100_cases_retrieved_text.json
+This file contains 100 cases and their manual analyses of the retrieved texts. Each case includes the retrieved text, along with the similarity level between the retrieved text and the given video segment. Specifically, this file contains a list. Each element in the list provides information about a case.
+
+An example of the case is as follows:
+
+```json
+{
+    "Video ID": "YRZ8zZElALQ",
+    "Video link": "https://www.youtube.com/watch?v=YRZ8zZElALQ",
+    "Event time": [136, 180],
+    "Retrieved text": "take rice mix and spread it on seaweed",
+    "Ground truth": "spread the rice onto the seaweed",
+    "Similarity level": "Identical sub-event"
+}
+```
+
+The detailed information of the element structure is as follows:
+
+|Key|Description|
+|---|---|
+|**Video ID**| The name of the video|
+|**Video link**| The link to the video|
+|**Event time**| The start and end time of the event in the video|
+| **Retrieved text**| The text retrieved by DeVRAG retriever|
+| **Ground truth**| The caption label for this event in the video|
+| **Similarity level**| The similarity level between the retrieved text and the given video segment|
