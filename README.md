@@ -39,3 +39,32 @@ The detailed information of the element structure is as follows:
 | **Ground truth**| The caption label for this event in the video|
 | **Consistency level of "without DeVRAG"**| The consistency level between the caption generated without DeVRAG and the ground truth|
 | **Consistency level of DeVRAG**| The consistency level between the caption generated with DeVRAG and the ground truth|
+
+## edge_cases.json
+This file contains 16 edge cases of “same action with different objects” and “same object with different actions” between the retrieved text and a given video segment. Each case includes the retrieved text, along with the similarity situation between the retrieved text and the given video segment. The similarity situation has two types: “same action with different objects” and “same object with different actions”. Specifically, this file contains a list. Each element in the list provides information about a case.
+
+An example of the case is as follows:
+
+```json
+{
+    "Video ID": "fn9anlEL4FI",
+    "Video link": "https://www.youtube.com/watch?v=fn9anlEL4FI",
+    "Event time": [230, 238],
+    "Retrieved text": "add salt and green chili",
+    "Generated caption": "add water to the pan",
+    "Ground truth": "add water to the pot",
+    "Similarity of the retrieved text": "same action with different objects"
+}
+```
+
+The detailed information of the element structure is as follows:
+
+|Key|Description|
+|---|---|
+|**Video ID**| The name of the video|
+|**Video link**| The link to the video|
+|**Event time**| The start and end time of the event in the video|
+| **Retrieved text**| The text retrieved by DeVRAG retriever|
+| **Generated caption**| The caption generated with DeVRAG for the event|
+| **Ground truth**| The caption label for this event in the video|
+| **Similarity of the retrieved text**| the similarity situation between the retrieved text and the given video segment|
