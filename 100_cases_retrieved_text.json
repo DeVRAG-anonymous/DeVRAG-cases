@@ -1,0 +1,802 @@
+[
+    {
+        "Video ID": "xHr8X2Wpmno",
+        "Video link": "https://www.youtube.com/watch?v=xHr8X2Wpmno",
+        "Event time": [67, 89],
+        "Retrieved text": "add kosher salt and white pepper to the bowl and mix",
+        "Ground truth": "combine lemon juice sumac garlic salt and oil in a bowl",
+        "Similarity level": "identical sub-event"
+    },
+    {
+        "Video ID": "fn9anlEL4FI",
+        "Video link": "https://www.youtube.com/watch?v=fn9anlEL4FI",
+        "Event time": [230, 238],
+        "Retrieved text": "add salt and green chili",
+        "Ground truth": "add water to the pot",
+        "Similarity level": "Identical object/action"
+    },
+    {
+        "Video ID": "V53XmPeyjIU",
+        "Video link": "https://www.youtube.com/watch?v=V53XmPeyjIU",
+        "Event time": [16, 26],
+        "Retrieved text": "mix pepper salt garlic cayenne pepper hot sauce and milk together",
+        "Ground truth": "combine salt butter milk and hot sauce in a bowl",
+        "Similarity level": "identical sub-event"
+    },
+    {
+        "Video ID": "DBgap0YANhs",
+        "Video link": "https://www.youtube.com/watch?v=DBgap0YANhs",
+        "Event time": [417, 434],
+        "Retrieved text": "add oil and then garlic to a pan",
+        "Ground truth": "add soaked raisins and fried onion on top of the rice",
+        "Similarity level": "Identical object/action"
+    },
+    {
+        "Video ID": "YRZ8zZElALQ",
+        "Video link": "https://www.youtube.com/watch?v=YRZ8zZElALQ",
+        "Event time": [136, 180],
+        "Retrieved text": "take rice mix and spread it on seaweed",
+        "Ground truth": "spread the rice onto the seaweed",
+        "Similarity level": "Identical sub-event"
+    },
+    {
+        "Video ID": "VH0SmCfAov4",
+        "Video link": "https://drive.google.com/drive/folders/1FMhye5W7Hdt-kZ7Rgr6Gtlv3w_ibQCJq?usp=sharing",
+        "Retrieved text": "place the lettuce and tomatos on the bread",
+        "Event time": [23, 28],
+        "Ground truth": "toss everything well to combine",
+        "Similarity level": "Neither identical"
+    },
+    {
+        "Video ID": "7ebZWviUfUA",
+        "Video link": "https://www.youtube.com/watch?v=7ebZWviUfUA",
+        "Event time": [15, 30],
+        "Retrieved text": "add some flour salt baking powder baking soda and sugar and mix together",
+        "Ground truth": "add flour sugar baking powder and salt",
+        "Similarity level": "Identical sub-event"
+    },
+    {
+        "Video ID": "0uaKitJaqmI",
+        "Video link": "https://www.youtube.com/watch?v=0uaKitJaqmI",
+        "Event time": [134, 156],
+        "Retrieved text": "place the beef mixture in the meatload pan",
+        "Ground truth": "add the ground beef and saute the beef",
+        "Similarity level": "Identical sub-event"
+    },
+    {
+        "Video ID": "-dh_uGahzYo",
+        "Video link": "https://www.youtube.com/watch?v=-dh_uGahzYo",
+        "Event time": [138, 145],
+        "Retrieved text": "cook onions in a pan with oil",
+        "Ground truth": "heat some ghee in a pan",
+        "Similarity level": "Identical sub-event"
+    },
+    {
+        "Video ID": "sSO2wO-yaHw",
+        "Video link": "https://www.youtube.com/watch?v=sSO2wO-yaHw",
+        "Event time": [505, 510],
+        "Retrieved text": "add soy sauce to the pan",
+        "Ground truth": "add sugar to the wok",
+        "Similarity level": "Identical object/action"
+    },
+    {
+        "Video ID": "NjAtxfaLwCk",
+        "Video link": "https://www.youtube.com/watch?v=NjAtxfaLwCk",
+        "Event time": [156, 179],
+        "Retrieved text": "pour the pancake batter onto the pan",
+        "Ground truth": "pour batter on the pan",
+        "Similarity level": "Entirely identical"
+    },
+    {
+        "Video ID": "vDDeMg2dhEM",
+        "Video link": "https://www.youtube.com/watch?v=vDDeMg2dhEM",
+        "Event time": [58, 80],
+        "Retrieved text": "peel a carrot and cut into thin slices",
+        "Ground truth": "cut the carrots to julienne",
+        "Similarity level": "Identical sub-event"
+    },
+    {
+        "Video ID": "eQZEf3NCCo4",
+        "Video link": "https://www.youtube.com/watch?v=eQZEf3NCCo4",
+        "Event time": [85, 103],
+        "Retrieved text": "add some vinegar to steamed rice",
+        "Ground truth": "mix the sauce and pour on the rice",
+        "Similarity level": "Identical object/action"
+    },
+    {
+        "Video ID": "xHr8X2Wpmno",
+        "Video link": "https://www.youtube.com/watch?v=xHr8X2Wpmno",
+        "Event time": [163, 185],
+        "Retrieved text": "mix the salad",
+        "Ground truth": "add the fried pita to the salad and mix",
+        "Similarity level": "identical sub-event"
+    },
+    {
+        "Video ID": "mhEVgpfF-IU",
+        "Video link": "https://drive.google.com/drive/folders/1FMhye5W7Hdt-kZ7Rgr6Gtlv3w_ibQCJq?usp=sharing",
+        "Event time": [115, 258],
+        "Retrieved text": "cook the pasta in boiling water",
+        "Ground truth": "cook the meat in the water",
+        "Similarity level": "Identical object/action"
+    },
+    {
+        "Video ID": "cF45-iVw--w",
+        "Video link": "https://www.youtube.com/watch?v=cF45-iVw--w",
+        "Event time": [283, 310],
+        "Retrieved text": "add the pasta to the sauce",
+        "Ground truth": "stir pasta into the sauce",
+        "Similarity level": "Entirely identical"
+    },
+    {
+        "Video ID": "jEo9VXYVrxs",
+        "Video link": "https://www.youtube.com/watch?v=jEo9VXYVrxs",
+        "Event time": [191, 215],
+        "Retrieved text": "strain macaroni and rinse it with cold water",
+        "Ground truth": "drain the macaroni",
+        "Similarity level": "Identical sub-event"
+    },
+    {
+        "Video ID": "iqcnbNqVc7U",
+        "Video link": "https://drive.google.com/drive/folders/1FMhye5W7Hdt-kZ7Rgr6Gtlv3w_ibQCJq?usp=sharing",
+        "Event time": [12, 25],
+        "Retrieved text": "boil the pot over a stove",
+        "Ground truth": "boil some potatoes in salted water",
+        "Similarity level": "Identical object/action"
+    },
+    {
+        "Video ID": "RnSl1LVrItI",
+        "Video link": "https://www.youtube.com/watch?v=RnSl1LVrItI",
+        "Event time": [272, 290],
+        "Retrieved text": "add tofu and cucumber",
+        "Ground truth": "put all the vegetable into the bowl and cook them",
+        "Similarity level": "Identical object/action"
+    },
+    {
+        "Video ID": "XAHNVoKV1Bc",
+        "Video link": "https://www.youtube.com/watch?v=XAHNVoKV1Bc",
+        "Event time": [138, 158],
+        "Retrieved text": "add oil and then garlic to a pan",
+        "Ground truth": "add olive oil and garlic to a pot and saute it till the garlic is turns gold",
+        "Similarity level": "identical sub-event"
+    },
+    {
+        "Video ID": "R-EnNr_oH8A",
+        "Video link": "https://www.youtube.com/watch?v=R-EnNr_oH8A",
+        "Event time": [291, 307],
+        "Retrieved text": "cut yellow zucchini into thin slices",
+        "Ground truth": "chop onions extremely thin",
+        "Similarity level": "Identical object/action"
+    },
+    {
+        "Video ID": "xPiv3hP5888",
+        "Video link": "https://www.youtube.com/watch?v=xPiv3hP5888",
+        "Event time": [75, 87],
+        "Retrieved text": "add the vegetables salt pepper rosemary and thyme to a pan",
+        "Ground truth": "add butter and garlic to the pan and mix",
+        "Similarity level": "Identical object/action"
+    },
+    {
+        "Video ID": "CWxjNRIKjA0",
+        "Video link": "https://www.youtube.com/watch?v=CWxjNRIKjA0",
+        "Event time": [71, 80],
+        "Retrieved text": "heat some olive oil and cook chopped onion and shallots in it",
+        "Ground truth": "add some chopped white onions in a pan under medium heat",
+        "Similarity level": "Identical sub-event"
+    },
+    {
+        "Video ID": "J7gBorrGvDU",
+        "Video link": "https://www.youtube.com/watch?v=J7gBorrGvDU",
+        "Event time": [115, 127],
+        "Retrieved text": "add seasoning and liquid to the flour",
+        "Ground truth": "add beer to the mixture",
+        "Similarity level": "Identical object/action"
+    },
+    {
+        "Video ID": "EsQbw20TQPA",
+        "Video link": "https://www.youtube.com/watch?v=EsQbw20TQPA",
+        "Event time": [54, 67],
+        "Retrieved text": "add ginger and garlic to the pan",
+        "Ground truth": "add olive oil and onions to the pot",
+        "Similarity level": "Identical object/action"
+    },
+    {
+        "Video ID": "JylDlRtH9Tc",
+        "Video link": "https://www.youtube.com/watch?v=JylDlRtH9Tc",
+        "Event time": [204, 217],
+        "Retrieved text": "add green onion to the chicken",
+        "Ground truth": "garnish with scallions and pepper",
+        "Similarity level": "Neither identical"
+    },
+    {
+        "Video ID": "mNhj7SA7c4g",
+        "Video link": "https://www.youtube.com/watch?v=mNhj7SA7c4g",
+        "Event time": [60, 78],
+        "Retrieved text": "salt the onions",
+        "Ground truth": "add the onion ginger and garlic to the pan",
+        "Similarity level": "Identical object/action"
+    },
+    {
+        "Video ID": "zLBRrWd4DTo",
+        "Video link": "https://drive.google.com/drive/folders/1FMhye5W7Hdt-kZ7Rgr6Gtlv3w_ibQCJq?usp=sharing",
+        "Event time": [168, 178],
+        "Retrieved text": "place the cheddar cheese on top of the bread",
+        "Ground truth": "top the patties with cheese",
+        "Similarity level": "Identical sub-event"
+    },
+    {
+        "Video ID": "2IkN3hTEZ2Y",
+        "Video link": "https://www.youtube.com/watch?v=2IkN3hTEZ2Y",
+        "Event time": [91, 122],
+        "Retrieved text": "add pasta and salt to boiling water",
+        "Ground truth": "cook the tofu and salt in a wok",
+        "Similarity level": "Identical object/action"
+    },
+    {
+        "Video ID": "u95xkc4DfAs",
+        "Video link": "https://www.youtube.com/watch?v=u95xkc4DfAs",
+        "Event time": [61, 68],
+        "Retrieved text": "chop carrot celery onion and garlic",
+        "Ground truth": "cut carrot and cabbage roughly",
+        "Similarity level":"Identical sub-event"
+    },
+    {
+        "Video ID": "UIElE5H_iHc",
+        "Video link": "https://drive.google.com/drive/folders/1FMhye5W7Hdt-kZ7Rgr6Gtlv3w_ibQCJq?usp=sharing",
+        "Event time": [196, 254],
+        "Retrieved text": "add cheese and then transfer to a plate",
+        "Ground truth": "combine the pasta water eggs and parmesan cheese",
+        "Similarity level": "Identical object/action"
+    },
+    {
+        "Video ID": "DeiX_otgD1Q",
+        "Video link": "https://drive.google.com/drive/folders/1FMhye5W7Hdt-kZ7Rgr6Gtlv3w_ibQCJq?usp=sharing",
+        "Event time": [182, 191],
+        "Retrieved text": "add salt and pepper to the pot and stir",
+        "Ground truth": "add chopped parsley and stir",
+        "Similarity level": "Identical sub-event"
+    },
+    {
+        "Video ID": "83uz_q4_nyk",
+        "Video link": "https://www.youtube.com/watch?v=83uz_q4_nyk",
+        "Event time": [455, 483],
+        "Retrieved text": "pour the dressing on the ingredients in the bowl and mix well",
+        "Ground truth": "add the heated walnuts to the mixture and stir",
+        "Similarity level": "Identical object/action"
+    },
+    {
+        "Video ID": "v_dkYNq8G9Y",
+        "Video link": "https://www.youtube.com/watch?v=v_dkYNq8G9Y",
+        "Event time": [156, 172],
+        "Retrieved text": "coat the chicken in the flour",
+        "Ground truth": "cover the chicken in flour",
+        "Similarity level": "Entirely identical"
+    },
+    {
+        "Video ID": "B1YQYS9BMdk",
+        "Video link": "https://www.youtube.com/watch?v=B1YQYS9BMdk",
+        "Event time": [84, 104],
+        "Retrieved text": "cut a strip off the fillet",
+        "Ground truth": "cut the fish vertically into slices",
+        "Similarity level": "Identical object/action"
+    },
+    {
+        "Video ID": "FcjEswcaJW4",
+        "Video link": "https://drive.google.com/drive/folders/1FMhye5W7Hdt-kZ7Rgr6Gtlv3w_ibQCJq?usp=sharing",
+        "Event time": [95, 107],
+        "Retrieved text": "peel a carrot and cut into thin slices",
+        "Ground truth": "slice baby carrots into thin slices",
+        "Similarity level": "Identical sub-event"
+    },
+    {
+        "Video ID": "-GlSSp5ZOCQ",
+        "Video link": "https://www.youtube.com/watch?v=-GlSSp5ZOCQ",
+        "Event time": [86, 119],
+        "Retrieved text": "add a bit of cream",
+        "Ground truth": "boil the clams in the liquid",
+        "Similarity level":"Neither identical"
+    },
+    {
+        "Video ID": "xHr8X2Wpmno",
+        "Video link": "https://www.youtube.com/watch?v=xHr8X2Wpmno",
+        "Event time": [99, 137],
+        "Retrieved text": "add diced tomatoes cucumber green onion parsley mint and carrots to the bowl and stir",
+        "Ground truth": "add verdalago pepper cucumbers tomatoes herbs and onions to the lettuce in the bowl",
+        "Similarity level": "Identical sub-event"
+    },
+    {
+        "Video ID": "mZwK0TBI1iY",
+        "Video link": "https://www.youtube.com/watch?v=mZwK0TBI1iY",
+        "Event time": [78, 96],
+        "Retrieved text": "flip the chicken",
+        "Ground truth": "fry the chicken in a pan",
+        "Similarity level": "Identical object/action"
+    },
+    {
+        "Video ID": "UkqQAynrM2g",
+        "Video link": "https://www.youtube.com/watch?v=UkqQAynrM2g",
+        "Event time": [153, 166],
+        "Retrieved text": "fry the chicken breast with a little oil",
+        "Ground truth": "fry bacon in a skillet",
+        "Similarity level": "Identical object/action"
+    },
+    {
+        "Video ID": "V53XmPeyjIU",
+        "Video link": "https://www.youtube.com/watch?v=V53XmPeyjIU",
+        "Event time": [33, 36],
+        "Retrieved text": "heat some water to a boil",
+        "Ground truth": "place chicken in a small bowl and pour brine over chicken and freeze it for 1 hour",
+        "Similarity level": "Neither identical"
+    },
+    {
+        "Video ID": "JxCBGlPgr5o",
+        "Video link": "https://www.youtube.com/watch?v=JxCBGlPgr5o",
+        "Event time": [157, 160],
+        "Retrieved text": "flip the falafels and bake in the oven",
+        "Ground truth": "cook the buns on a grill",
+        "Similarity level": "Neither identical"
+    },
+    {
+        "Video ID": "ntiGX3X-spA",
+        "Video link": "https://www.youtube.com/watch?v=ntiGX3X-spA",
+        "Event time": [322, 331],
+        "Retrieved text": "add the chicken to the pan",
+        "Ground truth": "drizzle some sesame oil and serve",
+        "Similarity level": "Neither identical"
+    },
+    {
+        "Video ID": "mZwK0TBI1iY",
+        "Video link": "https://www.youtube.com/watch?v=mZwK0TBI1iY",
+        "Event time": [111, 116],
+        "Retrieved text": "put some mozzarella cheese on the chicken",
+        "Ground truth": "bake the chicken in the oven",
+        "Similarity level": "Identical object/action"
+    },
+    {
+        "Video ID": "mZwK0TBI1iY",
+        "Video link": "https://www.youtube.com/watch?v=mZwK0TBI1iY",
+        "Event time": [102, 107],
+        "Retrieved text": "put some mozzarella cheese onto the chicken",
+        "Ground truth": "top the chicken with mozzarella cheese",
+        "Similarity level": "Entirely identical"
+    },
+    {
+        "Video ID": "YRZ8zZElALQ",
+        "Video link": "https://www.youtube.com/watch?v=YRZ8zZElALQ",
+        "Event time": [318, 345],
+        "Retrieved text": "slice the roll into pieces",
+        "Ground truth": "cut the roll into pieces",
+        "Similarity level": "Entirely identical"
+    },
+    {
+        "Video ID": "IDu5czNIM1w",
+        "Video link": "https://www.youtube.com/watch?v=IDu5czNIM1w",
+        "Event time": [69, 80],
+        "Retrieved text": "chop the green onions garlic and peanuts",
+        "Ground truth": "chop the garlic",
+        "Similarity level": "Identical sub-event"
+    },
+    {
+        "Video ID": "TMpt-41UTOk",
+        "Video link": "https://www.youtube.com/watch?v=TMpt-41UTOk",
+        "Event time": [272, 292],
+        "Retrieved text": "process flour salt and water",
+        "Ground truth": "pulse few times and then add the water",
+        "Similarity level": "Identical object/action"
+    },
+    {
+        "Video ID": "kWLYcM3uVVc",
+        "Video link": "https://www.youtube.com/watch?v=kWLYcM3uVVc",
+        "Event time": [45, 48],
+        "Retrieved text": "grate cheese onto the patty",
+        "Ground truth": "add mozzarella cheese to the top",
+        "Similarity level": "Identical object/action"
+    },
+    {
+        "Video ID": "SkawoKeyNoQ",
+        "Video link": "https://www.youtube.com/watch?v=SkawoKeyNoQ",
+        "Event time": [120, 126],
+        "Retrieved text": "add chopped onion and green chilis to the pan",
+        "Ground truth": "add onion and carrots to the pan",
+        "Similarity level": "Identical sub-event"
+    },
+    {
+        "Video ID": "v_bXdq2zI1Ms0",
+        "Video link": "https://www.youtube.com/watch?v=bXdq2zI1Ms0",
+        "Event time": [10.6, 39.84],
+        "Retrieved text": "Two men are seen performing martial arts moves against one another and leads into a man speaking.",
+        "Ground truth": "The first man then begins performing martial arts moves while speaking to the camera.",
+        "Similarity level": "Identical sub-event"
+    },
+    {
+        "Video ID": "v_LkUnT9fMIXc",
+        "Video link": "https://www.youtube.com/watch?v=LkUnT9fMIXc",
+        "Event time": [13.37, 16.63],
+        "Retrieved text": "A referee skates over to the people.",
+        "Ground truth": "A man near them has fallen and he gets back up.",
+        "Similarity level": "Neither identical"
+    },
+    {
+        "Video ID": "v_IAtxK0w_ybY",
+        "Video link": "https://www.youtube.com/watch?v=IAtxK0w_ybY",
+        "Event time": [166.15, 175.93],
+        "Retrieved text": "They have a glass and a lemon on the table",
+        "Ground truth": "They pour it into glasses and drink it.",
+        "Similarity level": "Identical object/action"
+    },
+    {
+        "Video ID": "v_Oa26_SgrY8w",
+        "Video link": "https://www.youtube.com/watch?v=Oa26_SgrY8w",
+        "Event time": [111.65, 129.08],
+        "Retrieved text": "The top ten hockey melt downs are then shown.",
+        "Ground truth": "A hockey game scene is shown for a few seconds.",
+        "Similarity level": "Identical object/action"
+    },
+    {
+        "Video ID": "v_HtkuvF7VbSQ",
+        "Video link": "https://www.youtube.com/watch?v=HtkuvF7VbSQ",
+        "Event time": [16.82, 84.88],
+        "Retrieved text": "A close up of a man is shown giving a tattoo to someone.",
+        "Ground truth": "A man is sitting in a chair getting a tattoo.",
+        "Similarity level": "Identical sub-event"
+    },
+    {
+        "Video ID": "v_Po8gmt7hVTY",
+        "Video link": "https://www.youtube.com/watch?v=Po8gmt7hVTY",
+        "Event time": [13.36, 46.98],
+        "Retrieved text": "After, the man taste the spaghetti and drain it.",
+        "Ground truth": "He boils pasta noodles in a pot.",
+        "Similarity level": "Identical object/action"
+    },
+    {
+        "Video ID": "v_ng14GLT_hHQ",
+        "Video link": "https://www.youtube.com/watch?v=ng14GLT_hHQ",
+        "Event time": [83.57, 153.35],
+        "Retrieved text": "They run a brush down the front of the paper.",
+        "Ground truth": "He uses the paints to create an image on the canvas.",
+        "Similarity level": "Neither identical"
+    },
+    {
+        "Video ID": "v_D0pVkTEYQg8",
+        "Video link": "https://www.youtube.com/watch?v=D0pVkTEYQg8",
+        "Event time": [4.17, 14.24],
+        "Retrieved text": "After, the man pulls the handle of la machine to do abs.",
+        "Ground truth": "The guy has his hand on the handles.",
+        "Similarity level": "Identical object/action"
+    },
+    {
+        "Video ID": "v_q8c_0JTe5r8",
+        "Video link": "https://drive.google.com/drive/folders/1FMhye5W7Hdt-kZ7Rgr6Gtlv3w_ibQCJq?usp=sharing",
+        "Event time": [0.0, 11.73],
+        "Retrieved text": "There is plates of food in the sink.",
+        "Ground truth": "A screen shows the batter for a marble cake.",
+        "Similarity level": "Neither identical"
+    },
+    {
+        "Video ID": "v_tY6UFSLtIoE",
+        "Video link": "https://www.youtube.com/watch?v=tY6UFSLtIoE",
+        "Event time": [0.0, 231.97],
+        "Retrieved text": "The woman then begins dancing around with the women while following her around.",
+        "Ground truth": "We see people dancing and light flashing in a club.",
+        "Similarity level": "Identical object/action"
+    },
+    {
+        "Video ID": "v_EwjDShmfFHM",
+        "Video link": "https://www.youtube.com/watch?v=EwjDShmfFHM",
+        "Event time": [4.49, 6.29],
+        "Retrieved text": "A person opens a faucet and wet the hands.",
+        "Ground truth": "They turn on the faucet and wet their hands.",
+        "Similarity level": "identical sub-event"
+    },
+    {
+        "Video ID": "v_ZVIi4lPU6h0",
+        "Video link": "https://drive.google.com/drive/folders/1FMhye5W7Hdt-kZ7Rgr6Gtlv3w_ibQCJq?usp=sharing",
+        "Event time": [0.69, 12.15],
+        "Retrieved text": "A pumpkin is sitting on a counter.",
+        "Ground truth": "A man shows to carve a pumpkin using a sharp tool.",
+        "Similarity level": "Identical object/action"
+    },
+    {
+        "Video ID": "v_puK4NxGKNdQ",
+        "Video link": "https://www.youtube.com/watch?v=puK4NxGKNdQ",
+        "Event time": [0.0, 49.79],
+        "Retrieved text": "A man whips grass of his foot.",
+        "Ground truth": "A man is seen riding into frame on a lawn mower and looking at the camera.",
+        "Similarity level": "Neither identical"
+    },
+    {
+        "Video ID": "v_8fZbv6OUEm8",
+        "Video link": "https://www.youtube.com/watch?v=8fZbv6OUEm8",
+        "Event time": [0.0, 64.11],
+        "Retrieved text": "Then, they continue playing and the young man scores, as well the man scores.",
+        "Ground truth": "People are playing with a ball in the sand on the beach.",
+        "Similarity level": "Identical object/action"
+    },
+    {
+        "Video ID": "v_nezTU6Bq5hM",
+        "Video link": "https://drive.google.com/drive/folders/1FMhye5W7Hdt-kZ7Rgr6Gtlv3w_ibQCJq?usp=sharing",
+        "Event time": [1.36, 45.19],
+        "Retrieved text": "Finally,the man comes back and shows how his the object works to cut the grass.",
+        "Ground truth": "He is clipping the grass with large scissors.",
+        "Similarity level": "Identical sub-event"
+    },
+    {
+        "Video ID": "v_EvJqfGXb5Fo",
+        "Video link": "https://www.youtube.com/watch?v=EvJqfGXb5Fo",
+        "Event time": [0.0, 12.65],
+        "Retrieved text": "The girl walks to a trampoline and gets a different rake and rakes the leaves in a circle.",
+        "Ground truth": "We see a girl raking leaves in a yard.",
+        "Similarity level": "Identical sub-event"
+    },
+    {
+        "Video ID": "v_v1Vmf5s42No",
+        "Video link": "https://drive.google.com/drive/folders/1FMhye5W7Hdt-kZ7Rgr6Gtlv3w_ibQCJq?usp=sharing",
+        "Event time": [4.59, 7.17],
+        "Retrieved text": "He grabs a beer and then kisses the girls.",
+        "Ground truth": "The right lady fiddles with her purse.",
+        "Similarity level": "Neither identical"
+    },
+    {
+        "Video ID": "v_EvJqfGXb5Fo",
+        "Video link": "https://www.youtube.com/watch?v=EvJqfGXb5Fo",
+        "Event time": [153.43, 158.18],
+        "Retrieved text": "A black dog walks on a lawn.",
+        "Ground truth": "We see the dog run towards the camera.",
+        "Similarity level": "Identical object/action"
+    },
+    {
+        "Video ID": "v_JKa3jnnowNo",
+        "Video link": "https://www.youtube.com/watch?v=JKa3jnnowNo",
+        "Event time": [9.12, 61.05],
+        "Retrieved text": "A roofer nails tiles into the roof beams of a home.",
+        "Ground truth": "Two men fix the roof of a rotten roof of a house.",
+        "Similarity level": "Identical sub-event"
+    },
+    {
+        "Video ID": "v_Gq8-XVrlAt4",
+        "Video link": "https://www.youtube.com/watch?v=Gq8-XVrlAt4",
+        "Event time": [56.32, 92.71],
+        "Retrieved text": "The player bounces the ball back with the tip of the racquet handle.",
+        "Ground truth": "She continues to hit the ball while the trainer rakes through the basket.",
+        "Similarity level": "Identical sub-event"
+    },
+    {
+        "Video ID": "v_z3xkE5Ox-2A",
+        "Video link": "https://www.youtube.com/watch?v=z3xkE5Ox-2A",
+        "Event time": [126.87, 133.54],
+        "Retrieved text": "The man finishes his pumpkin and the camera pans all around the side.",
+        "Ground truth": "The guy wraps white toilet paper on a pumpkin carving.",
+        "Similarity level": "Identical object/action"
+    },
+    {
+        "Video ID": "v_6Yn2U58qxPs",
+        "Video link": "https://www.youtube.com/watch?v=6Yn2U58qxPs",
+        "Event time": [40.84, 99.95],
+        "Retrieved text": "Man is climbing the rock wall holding it and the other people on the floor is attached to harness ready to climb the wall too.",
+        "Ground truth": "We see the man in the black shirt start climbing the rock.",
+        "Similarity level": "Identical sub-event"
+    },
+    {
+        "Video ID": "v_qkk2tK19sx8",
+        "Video link": "https://www.youtube.com/watch?v=qkk2tK19sx8",
+        "Event time": [0.0, 11.24],
+        "Retrieved text": "We see a man raise his arms and prepare to mount the pommel horse.",
+        "Ground truth": "A gymnast stands on his arms.",
+        "Similarity level": "Identical object/action"
+    },
+    {
+        "Video ID": "v_ffUtqOyJ7fM",
+        "Video link": "https://drive.google.com/drive/folders/1FMhye5W7Hdt-kZ7Rgr6Gtlv3w_ibQCJq?usp=sharing",
+        "Event time": [79.29, 84.8],
+        "Retrieved text": "A woman is talking to a camera.",
+        "Ground truth": "When the woman's face is all dried she continues to talk.",
+        "Similarity level": "Identical sub-event"
+    },
+    {
+        "Video ID": "v_ShKrNPaSdhY",
+        "Video link": "https://www.youtube.com/watch?v=ShKrNPaSdhY",
+        "Event time": [17.63, 37.61],
+        "Retrieved text": "He turns as he passes between other skiers on the way.",
+        "Ground truth": "A person is snowboarding down a hill of snow.",
+        "Similarity level": "Neither identical"
+    },
+    {
+        "Video ID": "v_4Lu8ECLHvK4",
+        "Video link": "https://www.youtube.com/watch?v=4Lu8ECLHvK4",
+        "Event time": [3.11, 8.07],
+        "Retrieved text": "A man stands and observes.",
+        "Ground truth": "A small boy is playing by himself a he stands on a large square tile.",
+        "Similarity level": "Identical sub-event"
+    },
+    {
+        "Video ID": "v_qY7LG7r_IA8",
+        "Video link": "https://www.youtube.com/watch?v=qY7LG7r_IA8",
+        "Event time": [187.49, 228.65],
+        "Retrieved text": "The girls walk around a bit followed by drinking out of a glass and making funny faces to the camera.",
+        "Ground truth": "When the dance finished she waved to the camera and made a face.",
+        "Similarity level": "Identical sub-event"
+    },
+    {
+        "Video ID": "v_ISEbX4WvBW4",
+        "Video link": "https://www.youtube.com/watch?v=ISEbX4WvBW4",
+        "Event time": [16.16, 32.69],
+        "Retrieved text": "A young child is moving back and fourth on a swing while laughing and smiling to the camera.",
+        "Ground truth": "The boy swings around and around smiling and laughing.",
+        "Similarity level": "Entirely identical"
+    },
+    {
+        "Video ID": "v_QBqfrJzcrns",
+        "Video link": "https://drive.google.com/drive/folders/1FMhye5W7Hdt-kZ7Rgr6Gtlv3w_ibQCJq?usp=sharing",
+        "Event time": [0.0, 35.76],
+        "Retrieved text": "She arranges the shirt on the ironing board, then begins to iron the shirt.",
+        "Ground truth": "A woman is seen ironing a shirt and pauses to speak to the camera for a moment.",
+        "Similarity level": "Identical sub-event"
+    },
+    {
+        "Video ID": "v_Ny8NDMWfGJk",
+        "Video link": "https://drive.google.com/drive/folders/1FMhye5W7Hdt-kZ7Rgr6Gtlv3w_ibQCJq?usp=sharing",
+        "Event time": [172.85, 196.42],
+        "Retrieved text": "A truck drives away from the camera.",
+        "Ground truth": "When they're done, they all get inside of the truck and roll away.",
+        "Similarity level": "Identical sub-event"
+    },
+    {
+        "Video ID": "v_jpWevi1HBYo",
+        "Video link": "https://www.youtube.com/watch?v=jpWevi1HBYo",
+        "Event time": [9.07, 16.95],
+        "Retrieved text": "The lady talks with girls who plays a game hitting a ball with a stick.",
+        "Ground truth": "A child scoop the ball with the stick and run on opposite direction.",
+        "Similarity level": "Identical object/action"
+    },
+    {
+        "Video ID": "v_RxXBMgsu6uU",
+        "Video link": "https://drive.google.com/drive/folders/1FMhye5W7Hdt-kZ7Rgr6Gtlv3w_ibQCJq?usp=sharing",
+        "Event time": [94.05, 94.93],
+        "Retrieved text": "One of the boys has fallen and dropped his bike.",
+        "Ground truth": "The gate is released and the boys bike on the dirt.",
+        "Similarity level": "Identical object/action"
+    },
+    {
+        "Video ID": "v_I4uZkBmE5eM",
+        "Video link": "https://www.youtube.com/watch?v=I4uZkBmE5eM",
+        "Event time": [6.16, 77.6],
+        "Retrieved text": "A person is seen walking into frame in front of a pair of drums.",
+        "Ground truth": "The man is looking at the camera occasionally as he plays the drum.",
+        "Similarity level": "Identical object/action"
+    },
+    {
+        "Video ID": "v_vzrZJX-Slzg",
+        "Video link": "https://www.youtube.com/watch?v=vzrZJX-Slzg",
+        "Event time": [19.98, 105.54],
+        "Retrieved text": "Then, the person weld a piece of metal.",
+        "Ground truth": "A man welds a large steel construction drill.",
+        "Similarity level": "Identical object/action"
+    },
+    {
+        "Video ID": "v_hchuVbHYK_k",
+        "Video link": "https://www.youtube.com/watch?v=hchuVbHYK_k",
+        "Event time": [6.98, 39.57],
+        "Retrieved text": "Two people are tubing in a stream with lush water and huge rocks through out it.",
+        "Ground truth": "He is kayaking through the rough waters.",
+        "Similarity level": "Identical object/action"
+    },
+    {
+        "Video ID": "v_qmlohhdz784",
+        "Video link": "https://www.youtube.com/watch?v=qmlohhdz784",
+        "Event time": [6.32, 180.7],
+        "Retrieved text": "Two people are playing racquetball.",
+        "Ground truth": "They are playing a game of wall ball.",
+        "Similarity level": "Entirely identical"
+    },
+    {
+        "Video ID": "v_aAY_M6M26TI",
+        "Video link": "https://www.youtube.com/watch?v=aAY_M6M26TI",
+        "Event time": [0.0, 45.45],
+        "Retrieved text": "A business man plays against a table tennis professional.",
+        "Ground truth": "Two people play a ping pong match in a room.",
+        "Similarity level": "Entirely identical"
+    },
+    {
+        "Video ID": "v_2GEZgHcA7zU",
+        "Video link": "https://drive.google.com/drive/folders/1FMhye5W7Hdt-kZ7Rgr6Gtlv3w_ibQCJq?usp=sharing",
+        "Event time": [38.87, 48.34],
+        "Retrieved text": "The girl then does a backwards flipping dive into the pool.",
+        "Ground truth": "The man dives into the indoor pool.",
+        "Similarity level": "Identical sub-event"
+    },
+    {
+        "Video ID": "v_CArYinl5tFo",
+        "Video link": "https://www.youtube.com/watch?v=CArYinl5tFo",
+        "Event time": [74.52, 146.12],
+        "Retrieved text": "People are working in a bike shop fixing a bike",
+        "Ground truth": "Many different people are passing through to put their bikes up and do other things.",
+        "Similarity level": "Identical object/action"
+    },
+    {
+        "Video ID": "v_AqTZd5HZKNI",
+        "Video link": "https://www.youtube.com/watch?v=AqTZd5HZKNI",
+        "Event time": [171.56, 204.24],
+        "Retrieved text": "She inserts a tool into the vacuum and vacuums along the baseboards.",
+        "Ground truth": "the man close the door to vacuum the carpet behind the door.",
+        "Similarity level": "Identical object/action"
+    },
+    {
+        "Video ID": "v_Jd0KWW9LN4Q",
+        "Video link": "https://www.youtube.com/watch?v=Jd0KWW9LN4Q",
+        "Event time": [12.91, 27.66],
+        "Retrieved text": "The young amateur players begin to bowl using the two handed technique.",
+        "Ground truth": "He is bowling and talking to the camera.",
+        "Similarity level": "Identical sub-event"
+    },
+    {
+        "Video ID": "v_9xHLzVojpBc",
+        "Video link": "https://www.youtube.com/watch?v=9xHLzVojpBc",
+        "Event time": [0.97, 34.81],
+        "Retrieved text": "He moves the racket and ball up to demonstrate how to properly serve the ball, followed by him actually serving the ball in slow motion.",
+        "Ground truth": "A man is seen speaking to the camera while holding onto a tennis racket.",
+        "Similarity level": "Identical object/action"
+    },
+    {
+        "Video ID": "v_O0KUnuhLwj0",
+        "Video link": "https://www.youtube.com/watch?v=O0KUnuhLwj0",
+        "Event time": [17.95, 106.01],
+        "Retrieved text": "He takes the hookah out of his mouth and exhales letting out a bunch of smoke.",
+        "Ground truth": "The man puts a cigarette in his mouth and smokes the cigarette fast.",
+        "Similarity level": "Identical object/action"
+    },
+    {
+        "Video ID": "v_ivkF2jbavhc",
+        "Video link": "https://www.youtube.com/watch?v=ivkF2jbavhc",
+        "Event time": [4.62, 31.38],
+        "Retrieved text": "An intro comes onto the screen showing a high rise building.",
+        "Ground truth": "The sky is being recorded on a moving car or train.",
+        "Similarity level": "Neither identical"
+    },
+    {
+        "Video ID": "v_2GEZgHcA7zU",
+        "Video link": "https://drive.google.com/drive/folders/1FMhye5W7Hdt-kZ7Rgr6Gtlv3w_ibQCJq?usp=sharing",
+        "Event time": [48.83, 99.66],
+        "Retrieved text": "Two girls walk up to a pool, ready to dive.",
+        "Ground truth": "Several other people dive from the board into the pool.",
+        "Similarity level": "Identical object/action"
+    },
+    {
+        "Video ID": "v_hsPepNAzu_Q",
+        "Video link": "https://www.youtube.com/watch?v=hsPepNAzu_Q",
+        "Event time": [7.31, 16.35],
+        "Retrieved text": "People are riding horses along a dirt trail.",
+        "Ground truth": "People ride on horses through the woods.",
+        "Similarity level": "Identical sub-event"
+    },
+    {
+        "Video ID": "v_IAtxK0w_ybY",
+        "Video link": "https://www.youtube.com/watch?v=IAtxK0w_ybY",
+        "Event time": [8.0, 17.77],
+        "Retrieved text": "woman is standing in kitchen talking to the camera and showing ingredients that are on top of a counter.",
+        "Ground truth": "We see two ladies in a kitchen preparing to cook.",
+        "Similarity level": "Identical object/action"
+    },
+    {
+        "Video ID": "v_DepG0r3JiV4",
+        "Video link": "https://www.youtube.com/watch?v=DepG0r3JiV4",
+        "Event time": [20.92, 22.44],
+        "Retrieved text": "men are playing squash in a room holding rackets on his hands.",
+        "Ground truth": "The man is playing squash with a guy.",
+        "Similarity level": "Identical sub-event"
+    },
+    {
+        "Video ID": "v_7phIVBx1BzQ",
+        "Video link": "https://www.youtube.com/watch?v=7phIVBx1BzQ",
+        "Event time": [38.9, 156.64],
+        "Retrieved text": "He does several tricks with the frisbees and the dog.",
+        "Ground truth": "Many people are shown throwing frisbees off in the distance with dogs following behind.",
+        "Similarity level": "Identical object/action"
+    },
+    {
+        "Video ID": "v_bHAzuAnnvcU",
+        "Video link": "https://www.youtube.com/watch?v=bHAzuAnnvcU",
+        "Event time": [0.0, 10.42],
+        "Retrieved text": "A young child is seen speaking to the camera and begins climbing across a set of monkey bars.",
+        "Ground truth": "A boy goes across the monkey bars as a lady watches and cheers him on.",
+        "Similarity level": "Identical sub-event"
+    }
+]
