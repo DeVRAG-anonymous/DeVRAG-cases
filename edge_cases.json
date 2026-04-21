@@ -6,7 +6,8 @@
         "Retrieved text": "add salt and green chili",
         "Generated caption": "add water to the pan",
         "Ground truth": "add water to the pot",
-        "Similarity of the retrieved text": "same action with different objects"
+        "Similarity of the retrieved text": "same action with different objects",
+        "Similarity level of the generated caption": "entirely identical"
     },
     {
         "Video ID": "J7gBorrGvDU",
@@ -15,7 +16,8 @@
         "Retrieved text": "add seasoning and liquid to the flour",
         "Generated caption": "add beer to the flour",
         "Ground truth": "add beer to the mixture",
-        "Similarity of the retrieved text": "same action with different objects"
+        "Similarity of the retrieved text": "same action with different objects",
+        "Similarity level of the generated caption": "identical object/action"
     },
     {
         "Video ID": "DeiX_otgD1Q",
@@ -24,8 +26,8 @@
         "Retrieved text": "add salt and pepper to the pot and stir",
         "Generated caption": "add parsley to the mashed potatoes and mix",
         "Ground truth": "add chopped parsley and stir",
-        "Similarity of the retrieved text": "same action with different objects"
-
+        "Similarity of the retrieved text": "same action with different objects",
+        "Similarity level of the generated caption": "identical sub-event"
     },
     {
        "Video ID": "UkqQAynrM2g",
@@ -34,7 +36,8 @@
        "Retrieved text": "fry the chicken breast with a little oil",
        "Generated caption": "fry the bacon in a pan",
        "Ground truth": "fry bacon in a skillet",
-       "Similarity of the retrieved text": "same action with different objects"
+       "Similarity of the retrieved text": "same action with different objects",
+       "Similarity level of the generated caption": "entirely identical"
     },
     {
         "Video ID": "v_KEXm-3H6eTg",
@@ -43,7 +46,8 @@
         "Retrieved text": "A person pours water to a cup.",
         "Generated caption": "A person pours water into a glass.",
         "Ground truth": "A drink is being poured into a martini glass.",
-        "Similarity of the retrieved text": "same action with different objects"
+        "Similarity of the retrieved text": "same action with different objects",
+        "Similarity level of the generated caption": "identical object/action"
     },
     {
         "Video ID": "v_QVe7NojAHjY",
@@ -52,7 +56,8 @@
         "Retrieved text": "The dried fruit mixture is added in the batter, and then shredded nuts and they were mixed well together.",
         "Generated caption": "Oats are added to the mixture.",
         "Ground truth": "Oats are added to the combined mixture.",
-        "Similarity of the retrieved text": "same action with different objects"
+        "Similarity of the retrieved text": "same action with different objects",
+        "Similarity level of the generated caption": "entirely identical"
     },
     {
         "Video ID": "v_zuBJzdDI9MY",
@@ -61,7 +66,8 @@
         "Retrieved text": "He takes a scoop of what's in the pot and adds it to the pan.",
         "Generated caption": "He adds oil and salt to the water.",
         "Ground truth": "The man adds oil and salt to a pot on the stove.",
-        "Similarity of the retrieved text": "same action with different objects"
+        "Similarity of the retrieved text": "same action with different objects",
+        "Similarity level of the generated caption": "identical object/action"
     },
     {
         "Video ID": "v_5JlwYD_GChY",
@@ -70,7 +76,8 @@
         "Retrieved text": "Men are playing volleyball in the sand.",
         "Generated caption": "A large group of people are seen playing soccer on a beach with one another.",
         "Ground truth": "Scenes of different teams playing in a beach soccer tournament.",
-        "Similarity of the retrieved text": "same action with different objects"
+        "Similarity of the retrieved text": "same action with different objects",
+        "Similarity level of the generated caption": "identical sub-event"
     },
     {
         "Video ID": "mZwK0TBI1iY",
@@ -79,7 +86,8 @@
         "Retrieved text": "flip the chicken",
         "Generated caption": "place the chicken in a pan with oil and fry",
         "Ground truth": "fry the chicken in a pan",
-        "Similarity of the retrieved text": "same object with different actions"
+        "Similarity of the retrieved text": "same object with different actions",
+        "Similarity level of the generated caption": "identical object/action"
     },
     {
         "Video ID": "kWLYcM3uVVc",
@@ -88,7 +96,8 @@
         "Retrieved text": "grate cheese onto the patty",
         "Generated caption": "add shredded mozzarella cheese on top",
         "Ground truth": "add mozzarella cheese to the top",
-        "Similarity of the retrieved text": "same object with different actions"
+        "Similarity of the retrieved text": "same object with different actions",
+        "Similarity level of the generated caption": "entirely identical"
     },
     {
         "Video ID": "mNhj7SA7c4g",
@@ -97,7 +106,8 @@
         "Retrieved text": "salt the onions",
         "Generated caption": "add the onions to the pot",
         "Ground truth": "add the onion ginger and garlic to the pan",
-        "Similarity of the retrieved text": "same object with different actions"
+        "Similarity of the retrieved text": "same object with different actions",
+        "Similarity level of the generated caption": "identical sub-event"
     },
     {
         "Video ID": "mZwK0TBI1iY",
@@ -106,7 +116,8 @@
         "Retrieved text": "put some mozzarella cheese on the chicken",
         "Generated caption": "bake the chicken in the oven",
         "Ground truth": "bake the chicken in the oven",
-        "Similarity of the retrieved text": "same object with different actions"
+        "Similarity of the retrieved text": "same object with different actions",
+        "Similarity level of the generated caption": "entirely identical"
     },
     {
         "Video ID": "v_Po8gmt7hVTY",
@@ -115,7 +126,8 @@
         "Retrieved text": "After, the man taste the spaghetti and drain it.",
         "Generated caption": "He adds pasta to the pot.",
         "Ground truth": "He boils pasta noodles in a pot.",
-        "Similarity of the retrieved text": "same object with different actions"
+        "Similarity of the retrieved text": "same object with different actions",
+        "Similarity level of the generated caption": "identical object/action"
     },
     {
         "Video ID": "v_jpWevi1HBYo",
@@ -124,7 +136,8 @@
         "Retrieved text": "The lady talks with girls who plays a game hitting a ball with a stick.",
         "Generated caption": "The girls run to the ball and grab it.",
         "Ground truth": "A child scoop the ball with the stick and run on opposite direction.",
-        "Similarity of the retrieved text": "same object with different actions"
+        "Similarity of the retrieved text": "same object with different actions",
+        "Similarity level of the generated caption": "identical object/action"
     },
     {
         "Video ID": "v_RxXBMgsu6uU",
@@ -133,7 +146,8 @@
         "Retrieved text": "One of the boys has fallen and dropped his bike.",
         "Generated caption": "The boys start to ride their bikes.",
         "Ground truth": "The gate is released and the boys bike on the dirt.",
-        "Similarity of the retrieved text": "same object with different actions"
+        "Similarity of the retrieved text": "same object with different actions",
+        "Similarity level of the generated caption": "identical sub-event"
     },
     {
         "Video ID": "v_I4uZkBmE5eM",
@@ -142,6 +156,7 @@
         "Retrieved text": "A person is seen walking into frame in front of a pair of drums.",
         "Generated caption": "The man continues playing the drums and ends by looking to the camera.",
         "Ground truth": "The man is looking at the camera occasionally as he plays the drum.",
-        "Similarity of the retrieved text": "same object with different actions"
+        "Similarity of the retrieved text": "same object with different actions",
+        "Similarity level of the generated caption": "identical sub-event"
     }
 ]
