@@ -53,7 +53,8 @@ An example of the case is as follows:
     "Retrieved text": "add salt and green chili",
     "Generated caption": "add water to the pan",
     "Ground truth": "add water to the pot",
-    "Similarity of the retrieved text": "same action with different objects"
+    "Similarity of the retrieved text": "same action with different objects",
+    "Similarity level of the generated caption": "entirely identical"
 }
 ```
 
@@ -67,7 +68,8 @@ The detailed information of the element structure is as follows:
 | **Retrieved text**| The text retrieved by DeVRAG retriever|
 | **Generated caption**| The caption generated with DeVRAG for the event|
 | **Ground truth**| The caption label for this event in the video|
-| **Similarity of the retrieved text**| the similarity situation between the retrieved text and the given video segment|
+| **Similarity of the retrieved text**| The similarity situation between the retrieved text and the given video segment|
+| **Similarity level of the generated caption**| The semantic level between the generated caption and the given video segment|
 
 ## 100_cases_retrieved_text.json
 This file contains 100 cases and their manual analyses of the retrieved texts. Each case includes the retrieved text, along with the similarity level between the retrieved text and the given video segment. Specifically, this file contains a list. Each element in the list provides information about a case.
